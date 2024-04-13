@@ -1,0 +1,25 @@
+Worked as a software development intern, assisting with coding, debugging, and testing.
+Collaborated with senior developers to enhance existing features and fix bugs.
+Worked on software documentation, including design documents and user manuals.
+Worked with RESTful APIs to retrieve and display data in web applications.
+
+
+
+Helped create responsive web pages using HTML, CSS, and JavaScript.
+Worked with the team to fix issues, reducing website load time by 20%.
+Tested websites for different browsers and devices, ensuring a smooth user experience.
+Collaborated with designers to improve user engagement by 15%.
+Assisted in web application development and maintained coding standards documentation.
+
+
+Collaborated with the team to automate the build and deployment process, resulting in a 30% reduction in deployment times.
+Gained experience in deployment and configuration management.
+
+
+
+
+Java, JavaScript, HTML, CSS, Spring, MySQL, Hibernate, JSP, Maven, Bootstrap, VS Code, DSA, OOP, Tomcat, JDBC, Node.js, Angular, GitHub
+
+gsoni@sigvitas.com
+
+11:00 AM tomorrow
